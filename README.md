@@ -32,8 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+I found very interesting working in this application. Learning more about how to use the Recycler View. I found the library used to read and write files very useful. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
